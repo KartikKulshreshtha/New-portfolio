@@ -3,13 +3,13 @@
 
 /* Variable used in CSS */
 :root{
-    --main-color: #e02f6b;
-    --blue: #0000ff;
-    --blue-dark: #18293c;
+        --main-color: #2e2a40;
+    --blue: #525277;
+    --blue-dark: #1b242d;
     --orange: #ffa500;
-    --green-yellow: #cddc39;
-    --pink-light: #efa2b4;
-    --cyan-light: #aef1ee;
+    --green-yellow: #ecece3;
+    --pink-light: #7976ad;
+    --cyan-light: #f3f9f9;
     --white: #ffffff;
     --white-alpha-40: rgba(255,255,255, 0.40);
     --white-alpha-25: rgba(255,255,255, 0.25);
